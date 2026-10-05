@@ -11,7 +11,7 @@ Bu organizasyon, topluluğumuzun ürettiği kalıcı bilginin ve ortak projeleri
 
 | Repository | İçerik |
 |---|---|
-| [knowledge-base](https://github.com/Gelistirici-Analizi/knowledge-base) | Yazılım, AI, robotik ve mühendislik için Türkçe teknik bilgi tabanı |
+| [knowledge-base](https://github.com/gelistiricianalizi/knowledge-base) | Yazılım, AI, robotik ve mühendislik için Türkçe teknik bilgi tabanı |
 
 Yeni repolar, topluluk projeleri ve workshop'lar başladıkça eklenir.
 
